@@ -25,4 +25,3 @@ This project analyzes employee attrition and workforce trends using SQL, Python,
 - Lower salary groups showed higher attrition trends
 - Certain job roles had lower satisfaction scores
 
-- 
